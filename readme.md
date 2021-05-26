@@ -2,14 +2,30 @@
 
 A collection of useful scripts to automate processes.
 
-## Install Firefox Nightly
+## Firefox Nightly
+
+### Install Firefox Nightly
 
 ```sh
 sudo bash -c "$(curl -sLo- https://git.io/JGv2h)"
 ```
 
-### Remove
+### Remove Firefox Nightly
 
 ```sh
 sudo bash -c "$(curl -sLo- https://git.io/JGv2h) --remove"
+```
+
+## JetBrainsMono Nerd Fonts
+
+### Install JetBrainsMono Nerd Fonts
+
+```sh
+sudo bash -c "$(curl -sLo- https://git.io/JGksp)"
+```
+
+### Remove JetBrainsMono Nerd Fonts
+
+```sh
+sudo bash -c "$(curl -sLo- https://git.io/JGksp) --remove"
 ```

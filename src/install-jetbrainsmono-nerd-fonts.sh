@@ -7,7 +7,7 @@ usage() {
     echo "  install-jetbrainsmono-nerd-fonts.sh [options]"
     echo ""
     echo "Options:"
-    echo "  -r, --remove  Remove Firefox Nightly from your system."
+    echo "  -r, --remove  Remove JetBrainsMono Nerd Fonts from your system."
     echo "  -h, --help    Show help information."
     echo ""
 }
